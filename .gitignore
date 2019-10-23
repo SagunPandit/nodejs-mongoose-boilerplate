@@ -1,0 +1,46 @@
+
+# Logs
+logs
+*.log
+npm-debug.log*
+package-lock.json
+public/
+pgdata
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# Yarn integrity file
+.yarn-integrity
+
+# IntelliJ IDE
+.idea
+
+# Build directory
+dist
+
+# Dotenv configuration
+# Env not ignore in release version for the time being
+.env
+
+# Visual Studio Code
+.vscode
+
+# Tests
+coverage
+.nyc_output
+
+# Vim swp files
+*.swp
+
+#images
+*.jpg
+*.png
+*.jpeg
+*.bmp
