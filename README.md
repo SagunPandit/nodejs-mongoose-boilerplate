@@ -15,9 +15,7 @@ Comes with:
 - Code formatting using [Prettier](https://www.npmjs.com/package/prettier)
 - Configuration management using [dotenv](https://www.npmjs.com/package/dotenv)
 - Logging using [winston](https://www.npmjs.com/package/winston)
-
 ---
-
 ## Prerequisites
 
 - [Node.js](https://yarnpkg.com/en/docs/install)
